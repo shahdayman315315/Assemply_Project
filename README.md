@@ -144,7 +144,7 @@ Choose: _
 
 - **Name:** Shahd Ayman Lotfy
 - **Name:** Alia Mahmoud Harb
-- **Course:** Computer Graphics / Assembly Projects  
+- **Course:**  Assembly 
 - **University:** Mansoura University  
 
 ---
